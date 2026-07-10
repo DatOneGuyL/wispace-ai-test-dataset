@@ -2,7 +2,7 @@
 Contains testing data for WISPACE's AI features
 
 # formatting
-**Task 1 basic input:**
+Task 1 basic input:
 {
   "question": "string",
   "url": "string",
@@ -19,7 +19,7 @@ Task 1 topic includes:
 - Process Diagram
 - Multiple Graphs
 
-**Task 2 basic input:**
+Task 2 basic input:
 {
   "question": "string",
   "topic": "string",
