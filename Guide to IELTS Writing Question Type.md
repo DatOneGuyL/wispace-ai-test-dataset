@@ -16,8 +16,7 @@ Task 2 topic:
 - Advantage — Disadvantage
 - Two-part question
 
-//-----------------
-Question Type breakdown
+# Question Type breakdown
 
 Task 1
 - Dynamic/Time-series/Trend-based: Đồ thị có thời gian
