@@ -27,7 +27,6 @@
 - 4.6. Lỗi sai cấu trúc ngữ pháp (Câu điều kiện, câu bị động, cấu trúc so sánh, mệnh đề quan hệ, mệnh đề quan hệ rút gọn, mệnh đề phân từ, either/neither/whether/if)
 
 # Các lỗi phổ biến trong IELTS Writing Task 2
-
 1. Với tiêu chí Task Response
 * 1.1. Cấu trúc, bố cục bài viết không phù hợp
 * 1.2. Stance thiếu rõ ràng, cụ thể
