@@ -1,5 +1,5 @@
 # Các lỗi phổ biến trong IELTS Writing Task 1
-1. Với tiêu chí Task Response
+1. Với tiêu chí Task Achievement
 - 1.1. Cấu trúc, bố cục bài viết không phù hợp
 - 1.2. Lựa chọn các chi tiết không đủ hoặc không phù hợp
 - 1.3. Đề cập thiếu dữ liệu của các chi tiết
