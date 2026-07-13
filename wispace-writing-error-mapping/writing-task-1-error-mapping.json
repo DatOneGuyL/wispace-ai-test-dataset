@@ -1,0 +1,110 @@
+{
+  "task_achievement": {
+    "inappropriate_structure": {
+      "vi": "Cấu trúc, bố cục bài viết không phù hợp",
+      "en_description": "Essay structure or organization is inappropriate."
+    },
+    "poor_detail_selection": {
+      "vi": "Lựa chọn các chi tiết không đủ hoặc không phù hợp",
+      "en_description": "Important details are missing or irrelevant details are selected."
+    },
+    "missing_data_support": {
+      "vi": "Đề cập thiếu dữ liệu của các chi tiết",
+      "en_description": "Details are mentioned without sufficient numerical support."
+    },
+    "inaccurate_data_support": {
+      "vi": "Đề cập sai dữ liệu của các chi tiết",
+      "en_description": "Figures, values, or data are reported incorrectly."
+    },
+    "lack_comparison_analysis": {
+      "vi": "Thiếu sự so sánh, phân tích giữa các số liệu",
+      "en_description": "Lack of comparison or analysis between data points."
+    }
+  },
+  "coherence_cohesion": {
+    "None specified": {
+      "vi": "Không có lỗi nào được chỉ định",
+      "en_description": "No specific error type is identified."
+    },
+    "disorganized_structure": {
+      "vi": "Kết cấu bài viết lộn xộn",
+      "en_description": "Ideas are not organized logically."
+    },
+    "unclear_information_relationship": {
+      "vi": "Không có mối quan hệ giữa 2 thông tin",
+      "en_description": "Relationship between pieces of information is unclear."
+    },
+    "inappropriate_linking_device": {
+      "vi": "Công cụ liên kết không phù hợp với mối quan hệ giữa 2 thông tin",
+      "en_description": "Linking devices do not match the intended relationship."
+    },
+    "misplaced_emphasis": {
+      "vi": "Sai trọng tâm nhấn mạnh dẫn đến liên kết lỏng lẻo",
+      "en_description": "Incorrect emphasis weakens coherence."
+    },
+    "repetitive_language_structure": {
+      "vi": "Có từ hoặc cấu trúc câu bị lặp lại nhiều lần",
+      "en_description": "Repeated words or sentence patterns reduce cohesion."
+    }
+  },
+  "lexical_resource": {
+    "None specified": {
+      "vi": "Không có lỗi nào được chỉ định",
+      "en_description": "No specific error type is identified."
+    },
+    "wordy_expression": {
+      "vi": "Sử dụng cách diễn đạt dài quá mức cần thiết do giới hạn về vốn từ",
+      "en_description": "Ideas are expressed with unnecessarily long wording."
+    },
+    "inappropriate_word_choice": {
+      "vi": "Sử dụng từ vựng không phù hợp với ngữ cảnh",
+      "en_description": "Vocabulary does not fit the context."
+    },
+    "collocation_error": {
+      "vi": "Sử dụng sai collocation",
+      "en_description": "Incorrect word combinations are used."
+    },
+    "lexical_repetition": {
+      "vi": "Lặp từ nhiều lần",
+      "en_description": "Words are repeated excessively."
+    },
+    "spelling_error": {
+      "vi": "Lỗi chính tả",
+      "en_description": "Spelling mistakes occur."
+    },
+    "informal_vocabulary": {
+      "vi": "Lỗi từ vựng informal",
+      "en_description": "Informal vocabulary is used inappropriately."
+    }
+  },
+  "grammar_range_accuracy": {
+    "None specified": {
+      "vi": "Không có lỗi nào được chỉ định",
+      "en_description": "No specific error type is identified."
+    },
+    "limited_sentence_variety": {
+      "vi": "Giới hạn về kiểu câu (chủ yếu là câu đơn)",
+      "en_description": "Limited variety of sentence structures."
+    },
+    "verb_form_error": {
+      "vi": "Chia động từ sai",
+      "en_description": "Verb forms or conjugations are incorrect."
+    },
+    "article_number_error": {
+      "vi": "Lỗi mạo từ, danh từ số nhiều/số ít",
+      "en_description": "Errors with articles or singular/plural nouns."
+    },
+    "word_form_error": {
+      "vi": "Lỗi từ loại",
+      "en_description": "Incorrect word form is used."
+    },
+    "inappropriate_tense_structure": {
+      "vi": "Lựa chọn thì/cấu trúc không phù hợp",
+      "en_description": "Tense or structure choice is inappropriate."
+    },
+    "complex_structure_error": {
+      "vi": "Lỗi sai cấu trúc ngữ pháp",
+      "en_description": "Errors in complex grammatical structures such as conditionals, passive voice, comparisons, relative clauses, participle clauses, either/neither/whether/if structures."
+    }
+  }
+}
