@@ -1,0 +1,106 @@
+{
+  "task_response": {
+    "inappropriate_structure": {
+      "vi": "Cấu trúc, bố cục bài viết không phù hợp",
+      "en_description": "Essay structure or organization is inappropriate for IELTS Writing Task 2."
+    },
+    "unclear_stance": {
+      "vi": "Stance thiếu rõ ràng, cụ thể",
+      "en_description": "The writer's position is unclear, vague, or not stated specifically enough."
+    },
+    "inconsistent_argument": {
+      "vi": "Luận điểm không thống nhất",
+      "en_description": "Arguments are inconsistent or contradict each other across the essay."
+    },
+    "irrelevant_argument": {
+      "vi": "Luận điểm không phù hợp (lạc đề)",
+      "en_description": "Arguments are irrelevant to the task or go off topic."
+    },
+    "logical_fallacy": {
+      "vi": "Luận điểm mắc lỗi phản biện (Overgeneralization, Either/Or fallacy, Slippery Slope, Strawman)",
+      "en_description": "Arguments contain reasoning fallacies such as overgeneralization, either/or fallacy, slippery slope, or strawman."
+    },
+    "incomplete_task_coverage": {
+      "vi": "Không xử lý đầy đủ các yêu cầu của bài",
+      "en_description": "The response does not fully address all parts or requirements of the task."
+    },
+    "underdeveloped_reasoning": {
+      "vi": "Lập luận thiếu thuyết phục (Không giải thích rõ mối quan hệ nhân quả hoặc nêu các vấn đề trừu tượng mà không có ví dụ)",
+      "en_description": "Reasoning is underdeveloped, with unclear cause-effect explanation or abstract claims without examples."
+    }
+  },
+  "coherence_cohesion": {
+    "disorganized_structure": {
+      "vi": "Kết cấu bài viết lộn xộn",
+      "en_description": "Ideas are not organized logically."
+    },
+    "unclear_information_relationship": {
+      "vi": "Không có mối quan hệ giữa 2 thông tin",
+      "en_description": "The relationship between two pieces of information is unclear."
+    },
+    "inappropriate_linking_device": {
+      "vi": "Công cụ liên kết không phù hợp với mối quan hệ giữa 2 thông tin",
+      "en_description": "Linking devices do not match the intended relationship between ideas."
+    },
+    "misplaced_emphasis": {
+      "vi": "Sai trọng tâm nhấn mạnh dẫn đến liên kết lỏng lẻo",
+      "en_description": "Incorrect emphasis weakens the logical connection between ideas."
+    },
+    "repetitive_language_structure": {
+      "vi": "Có từ hoặc cấu trúc câu bị lặp lại nhiều lần",
+      "en_description": "Repeated words or sentence structures reduce cohesion and readability."
+    }
+  },
+  "lexical_resource": {
+    "wordy_expression": {
+      "vi": "Sử dụng cách diễn đạt dài quá mức cần thiết do giới hạn về vốn từ",
+      "en_description": "Ideas are expressed with unnecessarily long wording due to limited vocabulary."
+    },
+    "inappropriate_word_choice": {
+      "vi": "Sử dụng từ vựng không phù hợp với ngữ cảnh",
+      "en_description": "Vocabulary does not fit the context or intended meaning."
+    },
+    "collocation_error": {
+      "vi": "Sử dụng sai collocation",
+      "en_description": "Incorrect word combinations or collocations are used."
+    },
+    "lexical_repetition": {
+      "vi": "Lặp từ nhiều lần",
+      "en_description": "Words or phrases are repeated excessively."
+    },
+    "spelling_error": {
+      "vi": "Lỗi chính tả",
+      "en_description": "Spelling mistakes occur."
+    },
+    "informal_vocabulary": {
+      "vi": "Lỗi từ vựng informal",
+      "en_description": "Informal vocabulary is used inappropriately for academic writing."
+    }
+  },
+  "grammar_range_accuracy": {
+    "limited_sentence_variety": {
+      "vi": "Giới hạn về kiểu câu (chủ yếu là câu đơn)",
+      "en_description": "Sentence variety is limited, mainly relying on simple sentences."
+    },
+    "verb_form_error": {
+      "vi": "Chia động từ sai",
+      "en_description": "Verb forms, conjugations, or subject-verb agreement are incorrect."
+    },
+    "article_number_error": {
+      "vi": "Lỗi mạo từ, danh từ số nhiều/số ít",
+      "en_description": "Errors occur with articles or singular/plural noun forms."
+    },
+    "word_form_error": {
+      "vi": "Lỗi từ loại",
+      "en_description": "Incorrect word form is used."
+    },
+    "inappropriate_tense_structure": {
+      "vi": "Lựa chọn thì/cấu trúc không phù hợp",
+      "en_description": "Tense or grammatical structure choice is inappropriate for the intended meaning."
+    },
+    "complex_structure_error": {
+      "vi": "Lỗi sai cấu trúc ngữ pháp (Câu điều kiện, câu bị động, cấu trúc so sánh, mệnh đề quan hệ, mệnh đề quan hệ rút gọn, mệnh đề phân từ, either/neither/whether/if)",
+      "en_description": "Errors occur in complex grammatical structures such as conditionals, passive voice, comparisons, relative clauses, reduced relative clauses, participle clauses, or either/neither/whether/if structures."
+    }
+  }
+}
