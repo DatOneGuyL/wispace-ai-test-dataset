@@ -1,0 +1,14 @@
+{ 
+"id": "stc_005", 
+"question": "Some people think that parents should teach children how to be good members of the society. Other, however, believe that school is the place to learn this. Discuss both view and give your opinion.",
+"type": "Discussion", 
+"essay": "There is an ongoing debate about whether parents or schools are responsible for educating children to be exemplary members of the community. In my opinion, schools should consider it their responsibility instead of totally relying on parents to do this job. \nOn the one hand, there are various reasons why people suggest that parents play an important role in teaching their kids. One primary reason is most of the children mimic their parents' behaviors; thus, parents have to become role models by setting exemplary examples. For example, parents who usually argue with others may discover their children imitate them and view this detrimental practice as an ideal life tactic to solve a disagreement. Additionally, parents are the closest individuals to their children; therefore, they have many opportunities to instruct their kids in the essential aspects of being a virtuous member in society. For instance, parents may encourage their children to participate in voluntary activities, assisting the elderly or protecting the environment. In some cases, parents even provide both firsthand insights and financial support for those activities. \nOn the other hand, along with many people, I strongly agree that school is the most appropriate place for training the young to become responsible members of society. One of the contributing reasons is that nowadays, parents are not having sufficient time to spend with their children due to busy schedules. The children spend most of their day at school and participate in various activities with teachers and friends. As a result, schools should include practical lessons that allow children to gain insightful knowledge about social life via those activities. Moreover children can interact with people from all walks of life in schools, ranging from their peers to dustmen or healthcare workers; thus, there is a fair chance that they can learn how to behave with different types of individuals in an appropriate way. \nIn conclusion, while parents are important to the character formation and development of their offspring, in my point of view, the school's role are much more significant. ", 
+"expected": 
+	{ 
+	"reference": "One of the contributing reasons is that nowadays, parents are not having sufficient time to spend with their children due to busy schedules.",
+  "weakness": "inappropriate_tense_structure"
+	} 
+}
+
+
+      
