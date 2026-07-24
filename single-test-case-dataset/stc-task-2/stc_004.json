@@ -6,7 +6,8 @@
 "expected": 
 	{ 
 	"reference": "Some activities about country customs such as inuit throat singing lesson or flamenco dancing experience can help making countries cultural become more famous.",
-  "weakness": "word_form_error" 
+    "reference_type": "local",
+    "weakness": "word_form_error" 
 	} 
 }
 
