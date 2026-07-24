@@ -1,0 +1,18 @@
+{ 
+"id": "stc_013", 
+"question": "In many countries, more and more people choose to buy imported food rather than food produced locally. Why do people buy imported food? What could be done to encourage people to buy local food?",
+"type": "Two-part question", 
+"essay": "Several nations exhibit an increasing preference for imported food over local alternatives. This essay will examine the diverse reasons individuals favor imported food and propose strategies to promote the purchasing of local food. \nOne primary reason for this trend is that many consumers perceive imported food as being of higher quality and more secure for their health. Especially in developing countries with low food safety standards, consumers are willing to pay more for imported food due to the clear origin and perceived quality. Another contributing factor is the curiosity for exotic products stemming from foreign countries, as globalization has made one country's specialties available for sale all over the world. Often, regardless of the price difference, the novelty of imported goods will be more appealing to buyers than the familiar domestic products. Finally, marketing projects and the brand's reputation drive this trend. Imported food companies usually aggressively advertise their products and have long-established brands, which makes consumers view them as high-class items.\nEven though consumers have reasonable explanations for choosing imported food over local alternatives, local food is of lower quality. Consequently, the government has to identify strategies to enhance the promotion of local food. First of all, they need to implement strict regulations to control food's quality and improve production processes. Additionally, tax reduction or capital provision is required for farmers and businesses to invest in modern farming techniques and agricultural expansion. Finally, they need to raise people's awareness about the advantage of purchasing local food products. For example, local goods are more environmentally friendly; they also utilize local labor resources to create these products, thus reducing unemployment. Moreover, the government may use their profits to support the local economy in return. As a result, rather than a mere consumer trend, buying local food products is considered a sustainable development direction for the community, as residents will consume high-quality food at an affordable price while farmers are employed, and businesses are able to sell their products.\nIn conclusion, numerous factors contribute to the increased popularity of imported food in the market compared to local food. Altering this recent trend requires a combination of government support and public awareness campaigns. ", 
+"expected": 
+	{ 
+	"reference": "Even though consumers have reasonable explanations for choosing imported food over local alternatives, local food is of lower quality.",
+  "reference_type": "local",
+  "weakness": "unclear_information_relationship" 
+	} 
+}
+
+
+
+
+
+
