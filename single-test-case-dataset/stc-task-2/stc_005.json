@@ -6,7 +6,8 @@
 "expected": 
 	{ 
 	"reference": "One of the contributing reasons is that nowadays, parents are not having sufficient time to spend with their children due to busy schedules.",
-  "weakness": "inappropriate_tense_structure"
+	"reference_type": "local",
+    "weakness": "inappropriate_tense_structure"
 	} 
 }
 
