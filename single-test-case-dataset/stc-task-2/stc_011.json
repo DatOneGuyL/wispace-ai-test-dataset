@@ -1,0 +1,15 @@
+{ 
+"id": "stc_011", 
+"question": "In today’s world of advanced science and technology, we still greatly value our artists such as musicians, painters and writers. What can arts tell us about life that science and technology cannot?", 
+"type": "Random Types", 
+"essay": "In today's world of advanced science and technology, highlighted by the rapid development of AI era, some groups of people start doubting the value of \"art\" such as music, painting or even poets. In contrast, some still greatly value those people who still contributing to keep the tradition, our artists such as musicians, painters and writers proved their value and stated that arts can tell us about life in a aspects that science and technology cannot.\n\nTo begin with, let understand how arts prove itself value is different. Since the very begin of human civilization, from intangible aspects such as emotion and moral to those epics and history moments, Art is one of the main tools used by humanity to preserve these values. Furthermore, to individuals, arts contain their personalities, their memories through how it convey emotions, cultural values and personal experiences, which technology cannot fully express.\n\nTo be honest, it is true that technology nowsadays have the ability to analize human intents or emotions by recognize our brain signal or even by reading our heartbeat, face moment or through daily gestures and behaviors.These methods did actively helping us in many fields like crime investigate, medical treatment,... However, those methods still have limitations. From my perspective, i believe technology cannot fully understand or express emotional aspects such as history value or personal stories of historical relics by itself. For example, without human emotion and moral aspects, we wont fully understand the value of Van gough's arts, it is obvious that technology don't have ability to comprehend how a paranoid person who lived hundred years ago.\n\nOverall, technology did a great job in elevate our living standards in many fields, even in moral problem sometimes. However, it cannot replace arts since it dont fully convey emotions and cultural values. Therefore I believe, we should balancing our use and not bias between arts and science in order to understanding life better.\n\n", 
+"expected": 
+	{ 
+	"reference": "To be honest, it is true that technology nowsadays have the ability to analize human intents or emotions by recognize our brain signal or even by reading our heartbeat, face moment or through daily gestures and behaviors.",
+  "reference_type": "fragment",
+  "weakness": "spelling_error" 
+	} 
+}
+
+
+
