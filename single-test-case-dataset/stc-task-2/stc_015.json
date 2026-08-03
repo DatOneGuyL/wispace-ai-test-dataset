@@ -1,0 +1,14 @@
+{ 
+"id": "stc_015", 
+"question": "Some people believe that governments should make laws about people’s nutrition and food choice while others argue that it is their choice.\nDiscuss both views and give your opinion.", 
+"type": "Discussion", 
+"essay": "Health is important in the life of people and society as a whole. Some people believe that some people believe the government should enact laws on nutrition, while others argue that it is a personal choice. In this essay, I will discuss both of these views and provide further explanations.\nOn the one hand, many people believe that government intervention is necessary for public health. The primary advantage of making law is that it can improve people’s health. Healthier people can work and study more effectively, which allows them to earn more money to support their families and themselves, leading to an increase in their quality of life. People can enjoy their lives and become happier. Furthermore, excessive consumption of unhealthy food creates a significant financial burden for the government, which prevents them from investing in other aspects such as education and healthcare. By regulating food choices, the government can reduce healthcare costs for everyone. \nOn the other hand, opponents emphasize that food choice is a personal right. Policies on increasing the price of sugary products may be unfair to low-income people. This can make people suffer from stress and anxiety, creating a financial burden for their family and themselves. Moreover, mandatory laws regarding nutrition could lower the satisfaction of citizens toward the government and contribute to the instability of society. This can have a negative effect on the development of the economy and the country. \nIn conclusion, I believe that the government has a responsibility to protect the health of the entire community while also respecting individual freedom.\n",
+"expected": 
+	{ 
+	"reference": "This can make people suffer from stress and anxiety, creating a financial burden for their family and themselves.", 
+	"reference_type": "local/fragment/global",
+	"weakness": "logical_fallacy" 
+	} 
+}
+
+ 
