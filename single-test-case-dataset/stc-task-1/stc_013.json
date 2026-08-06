@@ -1,0 +1,13 @@
+{ 
+"id": "stc_013", 
+"question": "The line graph below shows the amount of three types of spreads (margarine, low fat & reduced spreads, and butter) consumed per person per week in a European country between 1981 and 2007. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.", 
+"imagePath": "https://engnovatewebsitestorage.blob.core.windows.net/ielts-writing-task-1-images/9038bd2d27d75d6e",
+"type": "Line Graph", 
+"essay": "The line graph compares the weekly per capita consumption of three different spreads—butter, margarine, and low fat & reduced spreads—measured in grams from 1981 to 2007. \nOverall, butter was initially the most popular spread, but its consumption declined significantly over the period. Consequently, low fat & reduced spreads grew rapidly after their introduction, whereas margarine saw moderate fluctuations before dropping in later years. \nIn 1981, butter consumption stood at around 140 grams per week. It peaked at nearly 160 grams in 1986. However, butter intake experienced a sharp decline, falling to 100 grams in 1991 and continuing down to 50 grams by 2007. Furthermore, margarine started at 90 grams in 1981 and dropped to 80 grams in 1986. Because of this initial drop, margarine consumption rose back up to 100 grams in 1991 and remained stable until 1996, after which it decreased sharply to 40 grams in 2007. \nRegarding low fat & reduced spreads, data was only recorded from 1996, starting at 10 grams. In addition, this figure experienced a dramatic increase to around 85 grams in 2001. On the contrary, low fat spread consumption overtook both butter and margarine by 2001. Afterwards, its consumption fell slightly to 70 grams in 2007, although it remained the most consumed spread at the end of the timeframe.", 
+"expected": 
+	{ 
+	"reference": "In addition, this figure experienced a dramatic increase to around 85 grams in 2001. On the contrary, low fat spread consumption overtook both butter and margarine by 2001.", 
+	"reference_type": "local",
+	"weakness": "inappropriate_linking_device" 
+	} 
+}
