@@ -1,0 +1,13 @@
+{ 
+"id": "stc_019", 
+"question": "The two maps show the development of Shalton village between 1910 and 2010. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.", 
+"imagePath": "https://backend.aihubproduction.com/uploads/task1-images/20251231_104242_37541dd1-edc4-480c-8801-f55c266711e0.png",
+"type": "Map", 
+"essay": "The maps depict the structural transformation that took place in Shalton village over a 100-year period from 1910 to 2010. \nOverall, the village witnessed heavy modifications, changing from a predominantly rural settlement with small shops and green space into a more modern residential area with improved commercial amenities. \nIn 1910, a large house surrounded by trees sat in the central triangular land bounded by School Road, London Road, and High Street. By 2010, the large house and surrounding trees were demolished to make room for multiple new housing units and an access road. Along High Street, the local grocer and baker disappeared, replaced by a café, while the houses along the south side of High Street saw a sharp increase in number from two to four. \nAlong School Road, the butcher was replaced by a new supermarket and an adjacent parking lot, while a bank was built further north. On the opposite side of London Road, where only the post office stood in 1910, a long row of new houses was constructed into place. The original school located to the southwest remained unchanged throughout the century.", 
+"expected": 
+	{ 
+	"reference": "Overall, the village witnessed heavy modifications, changing from a predominantly rural settlement with small shops and green space into a more modern residential area with improved commercial amenities.", 
+	"reference_type": "local",
+	"weakness": "collocation_error" 
+	} 
+}
