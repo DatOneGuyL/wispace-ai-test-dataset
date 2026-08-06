@@ -1,0 +1,13 @@
+{ 
+"id": "stc_017", 
+"question": "The line graph gives information about the percentage of the population living in cities in four Asian countries from 1970 to 2020, with projections until 2040. Summarize the information by selecting and reporting the main features, and make comparisons where relevant.", 
+"imagePath": "https://backend.aihubproduction.com/uploads/task1-images/20251231_142718_e971474f-cfd7-495c-a078-4e7a2c716fdc.png",
+"type": "Line Graph", 
+"essay": "The line graph illustrates the urban population proportions in the Philippines, Malaysia, Thailand, and Indonesia between 1970 and 2020, alongside projected figures up to 2040. \nOverall, all four countries display a significant increase in urban population percentages over the period. Malaysia consistently maintains or is projected to reach the highest proportion, whereas Thailand generally records the lowest percentage of urban dwellers throughout most of the period. \nLooking at the details, in 1970, the Philippines led the chart with approximately 32% of its people living in cities. In contrast, the nation with the lowest urban population was Indonesia at around 14%. By 2010, the proportion of city residents in Malaysia surged dramatically to over 70%. Meanwhile, 42% was the proportion of people living in urban areas in Indonesia, matching the level of the Philippines. \nBy 2040, Malaysia is projected to reach a peak of over 80%. In comparison, the country with the second highest figure will be Indonesia, where the rate will stand at roughly 64%. Finally, by analyzing the chart, Thailand will finish the period with exactly 50% of its population living in cities.", 
+"expected": 
+	{ 
+	"reference": "In 1970, the Philippines led the chart with approximately 32% of its people living in cities. In contrast, the nation with the lowest urban population was Indonesia at around 14%.", 
+	"reference_type": "local",
+	"weakness": "misplaced_emphasis" 
+	} 
+}
