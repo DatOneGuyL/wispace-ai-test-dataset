@@ -1,0 +1,13 @@
+{ 
+"id": "stc_015", 
+"question": "The bar chart shows the sales of five different types of goods in the UK across four seasons in 2015. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.", 
+"imagePath": "https://backend.aihubproduction.com/uploads/task1-images/20260320_075134_b81f0ef0-48be-47e4-b329-ebccc02bcda2.png",
+"type": "Bar Chart", 
+"essay": "The bar chart compares the sales figures of five categories of goods—clothing, household items, garden products, electrical equipment, and children's toys—in the UK throughout four seasons in 2015. \nIn Spring, clothing sales were the highest at 100,000 units, followed by household items at 80,000 and electrical equipment at 60,000. Meanwhile, garden items generated 40,000 sales, and children's toys had the lowest figure at 30,000 units. In Winter, clothing sales peaked dramatically at 110,000 units, but garden items dropped to their lowest point at 20,000. \nOverall, clothing remained the top-selling product category across all four seasons, whereas garden items and children's toys generally recorded lower sales compared to other categories throughout the year. \nLooking at Summer, clothing sales dropped to 80,000 units, while household items stood at 70,000 units. Children's toys fell to 20,000, which was lower than garden items at 35,000 units. Electrical equipment stood at around 50,000 units. Then in Autumn, clothing fell further to 70,000, while household items and electrical equipment both hit 60,000 units. Garden items and children's toys both recorded 40,000 units in Autumn. Furthermore, in Winter, electrical equipment rose to 80,000 units, while children's toys jumped significantly to 60,000 units, and household items dropped to 50,000 units.", 
+"expected": 
+	{ 
+	"reference": "In Winter, clothing sales peaked dramatically at 110,000 units, but garden items dropped to 20,000. In Summer, clothing sales dropped to 80,000 units, while household items stood at 70,000 units and garden products reached 35,000 units.", 
+	"reference_type": "local",
+	"weakness": "disorganized_structure" 
+	} 
+}
