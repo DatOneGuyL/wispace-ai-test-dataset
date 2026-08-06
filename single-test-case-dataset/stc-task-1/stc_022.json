@@ -1,0 +1,13 @@
+{ 
+"id": "stc_022", 
+"question": "The layout maps show the Central Library as it was 20 years ago and how it looks today. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.", 
+"imagePath": "https://backend.aihubproduction.com/uploads/task1-images/20251231_143112_20c845f0-3eed-40d6-ac93-081d45b3a675.png",
+"type": "Map", 
+"essay": "The floor plans illustrate the structural transformations that took place in the Central Library over a 20-year period from 20 years ago to the present day. \nOverall, the library undergoes major layout changes, transitioning from a traditional printed material facility into a modern multimedia community space. \nTwenty years ago, tables and chairs will be situated in the central area, but these have since been removed. In the northwest section, where CDs, videos, and computer games were located two decades ago, children's fiction books are replacing them alongside new sofas for storytelling events. Meanwhile, the children's books room in the northeast corner will turn into a lecture room. \nIn the middle-right area, adult non-fiction books were replaced by adult fiction books, an information desk, and self-service machines. On the left side, the original adult fiction section had been storing all reference books today. Finally, in the bottom corners, the old reading room was converted into a computer room, while a café took the place of the former enquiry desk.", 
+"expected": 
+	{ 
+	"reference": "Overall, the library undergoes major layout changes, transitioning from a traditional printed material facility into a modern multimedia community space.", 
+	"reference_type": "local",
+	"weakness": "inappropriate_tense_structure" 
+	} 
+}
