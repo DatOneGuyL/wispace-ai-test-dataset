@@ -1,12 +1,15 @@
 { 
-"id": "", 
-"question": "", 
-"type": "", 
-"essay": "", 
+"id": "stc_001", 
+"question": "The diagram below shows how drinking water is produced using a solar-powered water pump and water filter. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.", 
+"imagePath": "https://backend.aihubproduction.com/images/fb4c4693-5b28-4bc4-98c5-3f5bc9a4f998.jpg",
+"type": "Process Diagram", 
+"essay": "The diagram illustrates the process of producing drinking water by means of a water\npump powered by energy from the sun and a water filter.\n\nOverall, there are seven stages in the process, beginning with the capture of sunlight\nand ending with the collection of drinking water in containers.\n\nInitially, a solar panel absorbs energy from sunlight. The solar panel is connected by\nwires to a converter, which then transforms the solar energy into electricity. Next,\nthis electricity is transmitted to a pump, which is located in an underground well.\n\nAt the next stage, water is pumped from the well up to a water tank, which is placed\non a wooden platform. Then, a filter inside the water tank is used to filter the water\nbefore it enters a pipe. After filtering, the pipe carries the water down from the water\ntank and it is now ready to drink. Finally, a tap fixed to the pipe is used to fill\nmoveable containers with the drinking water as people collect it.", 
 "expected": 
 	{ 
-	"reference": "", 
-	"reference_type": "local/fragment/global",
-	"weakness": "" 
+	"reference": "Then, a filter inside the water tank is used to filter the water\nbefore it enters a pipe. After filtering, the pipe carries the water down from the water\ntank and it is now ready to drink. Finally, a tap fixed to the pipe is used to fill\nmoveable containers with the drinking water as people collect it.", 
+	"reference_type": "fragment",
+	"weakness": "lexical_repetition" 
 	} 
 }
+
+      
