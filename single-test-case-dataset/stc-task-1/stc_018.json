@@ -1,0 +1,13 @@
+{ 
+"id": "stc_018", 
+"question": "The line graph shows the percentage of the population living in cities in four Asian countries from 1970 to 2020, with projections until 2040. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.", 
+"imagePath": "https://backend.aihubproduction.com/uploads/task1-images/20251231_142718_e971474f-cfd7-495c-a078-4e7a2c716fdc.png",
+"type": "Line Graph", 
+"essay": "The line graph illustrates the proportion of urban residents in four Southeast Asian nations from 1970 to 2020, along with projections up to 2040. \nOverall, all four countries display an upward trend in their urban populations over the 70-year period, with Malaysia consistently showing the highest urbanization rate from 1990 onwards. \nIn 1970, the Philippines had the largest amount of people who were residing and making their homes in urban areas at around 32%, closely followed by Malaysia at 30%. However, while the figure for the Philippines fluctuated before reaching around 45% in 2010, Malaysia experienced a situation where the percentage of people moved up in a continuous way without stopping to exceed 70% in 2010 and is projected to reach over 80% by 2040. \nIndonesia and Thailand started with lower figures in 1970, at approximately 15% and 18% respectively. Indonesia went through a phase where it showed a very big and noticeable increase that happened over a short period of time between 1990 and 2010, overtaking both the Philippines and Thailand. By 2040, the proportion of urban dwellers in Indonesia is expected to reach nearly 65%, whereas Thailand's figure is predicted to rise steadily to 50%.", 
+"expected": 
+	{ 
+	"reference": "However, while the figure for the Philippines fluctuated before reaching around 45% in 2010, Malaysia experienced a situation where the percentage of people moved up in a continuous way without stopping to exceed 70% in 2010 and is projected to reach over 80% by 2040.", 
+	"reference_type": "local",
+	"weakness": "wordy_expression" 
+	} 
+}
