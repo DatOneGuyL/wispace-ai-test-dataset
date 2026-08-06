@@ -1,0 +1,12 @@
+{ 
+"id": "stc_023", 
+"question": "Some people think that international tourism creates tension between people from different cultures, while others believe that it promotes understanding. Discuss both views and give your opinion.", 
+"type": "Discussion", 
+"essay": "International travel has grown significantly over the past few decades, bringing people of various cultural backgrounds into direct contact. While some individuals argue that cross-border travel generates cultural friction, I believe that tourism ultimately fosters mutual respect and global understanding. \nCultural differences can easily cause misunderstandings and frustration between tourists and local populations. For example, local residents in popular destinations like Barcelona often protest against crowded streets, rising housing costs, and noisy behavior from visitors. However, tourism provides a massive boost to local businesses, hotels, and restaurants, generating essential tax revenue for city infrastructure. Furthermore, when tourists do not respect local customs, such as dress codes at religious sites, residents feel insulted and react defensively. Therefore, governments should invest heavily in building sustainable public transportation systems to handle the growing foot traffic in urban centers. \nOn the other hand, visiting new countries allows individuals to experience different ways of life firsthand. Travelers can taste authentic traditional food, observe local traditions, and break down negative cultural stereotypes perpetuated by the media. Despite these benefits, long-distance flights contribute significantly to global carbon emissions and climate change. Furthermore, personal interactions with locals create genuine empathy and long-lasting international friendships. Thus, these positive personal connections prove that global travel unites people across national borders. \nIn conclusion, although tourism can cause local friction due to behavioral differences, its power to broaden mindsets outweighs the drawbacks. Promoting respectful travel practices will ensure that global tourism continues to build cultural bridges.", 
+"expected": 
+	{ 
+	"reference": " For example, local residents in popular destinations like Barcelona often protest against crowded streets, rising housing costs, and noisy behavior from visitors. However, tourism provides a massive boost to local businesses, hotels, and restaurants, generating essential tax revenue for city infrastructure.", 
+	"reference_type": "local",
+	"weakness": "disorganized_structure" 
+	} 
+}
