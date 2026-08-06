@@ -1,0 +1,15 @@
+{ 
+"id": "stc_009", 
+"question": "The tables give information about the temperatures and hours of daylight in London and Sydney during the same weekend in December 2018. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+"imagePath": "https://engnovatewebsitestorage.blob.core.windows.net/ielts-writing-task-1-images/8c70f2d183a6a65f",
+"type": "Table", 
+"essay": "The tables illustrate information in both countries London and Sydney about the temperatures and hours of daylight during the same weekend in December 2018.\nOverall, the difference in temperature, sunrise and sunset times of two countries is quite large. While London's temperature never exceeds 20 degrees everyday, Sydney's temperature gradually increases day by day.\nStarting with a temperature of 4 degrees on Friday in London and gradually increasing to the highest temperature of 9 degrees, in Sydney the temperature on Friday started with 17 degrees and gradually increased, reaching 26 degrees. On Saturday and Sunday, the temperature of both countries still has a big difference, London only reached a maximum of 10 degrees on Saturday while Sydney reached a highest of 31 degrees on Sunday.\nThe sunrise and sunset times of the two countries are also very different. While sunrise time in London mainly ranges from 8:5 to 8:6, in Sydney sunrise time mainly ranges from 5:45 to 5:46 in both countries. Sunset time in London falls around 4pm and in Sydney sunset time falls around 8pm\n\n\n", 
+"expected": 
+	{ 
+	"reference": "Sunset time in London falls around 4pm and in Sydney sunset time falls around 8pm", 
+	"reference_type": "fragment",
+	"weakness": "repetitive_language_structure" 
+	} 
+}
+
+ 
