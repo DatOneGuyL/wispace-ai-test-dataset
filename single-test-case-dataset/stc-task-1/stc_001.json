@@ -1,0 +1,12 @@
+{ 
+"id": "", 
+"question": "", 
+"type": "", 
+"essay": "", 
+"expected": 
+	{ 
+	"reference": "", 
+	"reference_type": "local/fragment/global",
+	"weakness": "" 
+	} 
+}
