@@ -1,0 +1,13 @@
+{ 
+"id": "stc_005", 
+"question": "The graph below show the changes in ownership of electrical appliances and amount of time spent doing housework in households in one country between 1920 and 2019 \nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+"imagePath": "https://backend.aihubproduction.com/images/441094a4-e0e0-4bad-bb59-ccfc052247e3.jpg",
+"type": "Line Graph", 
+"essay": "The given chart demonstrated the alteration in ownership of electrical appliances and amount of time spent doing housework in households in onw country between 1920 and 2019. \nOveral, there is a strong growth in the percentage of households with electrical appliances over the country. \nIn 1920 refrigerator started at 0% and increased to abou 40% in 1940. In 1960, refrigerator reached to 90% then peaked at 100% in 1980 and remained stable from then. Washing machine started at 40% in 1920, kept increasing to 70% in 1960, but slightly declined to 60% in 1980, and then kept growing to about 70% in 2019. Vacuum cleaner started at 30% in 1920, and countinuely increased at 100% 1980 and remained stablely then. \nOn the other hand, number of hours of housework per week, per househould decreased from 50 hours in 1920 to 10 hours in 2019. Which means households appliances reduce time and energy for househoulds works. It benefited people and allow us to have more time to do more intersting activities.\n", 
+"expected": 
+	{ 
+	"reference": "Vacuum cleaner started at 30% in 1920, and countinuely increased at 100% 1980 and remained stablely then.",
+  "reference_type": "local",
+  "weakness": "word_form_error"
+	} 
+}
