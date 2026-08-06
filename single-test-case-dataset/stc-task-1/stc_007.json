@@ -1,0 +1,15 @@
+{ 
+"id": "stc_007", 
+"question": "the graph below shows waste recycling rates in the US from 1960 to 2011 + \"Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\"",
+"imagePath": "https://engnovatewebsitestorage.blob.core.windows.net/ielts-writing-task-1-images/8dc3b67d4b3cb734",
+"type": "Line Graph", 
+"essay": "The line graph illustrates the total waste recovery in million tons and the percentage of recyling in the US between 1960 and 2011.\n\nOverall, the percentage of recycling and total waste recovery witnessed an upward trend, and the percentage of recycling was recorded with some fluctuations over the period. \n\nIn 1960, the total waste recovery in the US comprised 5.6 million tons in total. This figure rose gradually by approximately 1 million tons every five years since 1960 to stand at roughly 9.3 million tons in 1975. The waste recovery rate continued to climb up to 14.5 million tons in 1980, and this figure then increased to reach 16.7 million tons in 1985. In 1990, the total waste recovery doubled to reach 33.2 million tons, and this figure witnessed a substantial surge to 55.8 in 1995. Since 1995, the total waste recovery of the US increased by approximately 10 million tons annually to reach 86.9 million tons at the end of the period.\n\nIn 1960, the percent of recycling stood at 6.4%, following by a slight decline to 6.2% in 1965. During the following years, this figure rose gradually by 1% every year to reach 10.1% in 1985. The percentage of recycling then soared to 25.7% in 1995, following by a yearly gradual increase by 3%. In 2011, the percentage of recycling comprised 34.7% in total.", 
+"expected": 
+	{ 
+	"reference": "Overall, the percentage of recycling and total waste recovery witnessed an upward trend, and the percentage of recycling was recorded with some fluctuations over the period.",
+  "reference_type": "local",
+  "weakness": "inaccurate_data_support" 
+	} 
+}
+
+
