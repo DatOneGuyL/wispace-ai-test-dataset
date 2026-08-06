@@ -1,0 +1,13 @@
+{ 
+"id": "stc_014", 
+"question": "The first chart shows the population of England and Wales between 1700 and 2000. The second chart gives information about the birth and death rate in the same countries in the same period. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.", 
+"imagePath": "https://backend.aihubproduction.com/images/8407b807-67cf-4e71-938f-5d14e92d4da5.jpg",
+"type": "Bar Chart", 
+"essay": "The bar charts illustrate an total population growth as well as a birth and death rates in England and Wales from 1700 to 2000. \nOverall, a total population of England and Wales experienced a continuous growth throughout the 300-year period. Meanwhile, birth rate consistently remained higher than death rate, with both figures peaking in the 1800 before declining toward 2000. \nIn 1700, the total population stood at around 8 million person. This figure rose gradually to approximately 16 million in 1800, before experiencing a sharp increases to nearly 38 million in 1900. By 2000, populations of these country reached a peak of nearly 50 million. \nRegarding birth and death rates, both started at relatively low levels per 1000 individual in 1700, at roughly 9 and 7 per 1000, respectively. In 1800, birth rate surged to a peak of 23 per 1000, while death rate also increased to 17 per 1000. However, over the next two century, both metrics saw steady declines. By 2000, birth rate fell back down to around 11 per 1000, while death rate decreased to 5 per 1000.", 
+"expected": 
+	{ 
+	"reference": "By 2000, populations of these country reached a peak of nearly 50 million.", 
+	"reference_type": "fragmented",
+	"weakness": "article_number_error" 
+	} 
+}
