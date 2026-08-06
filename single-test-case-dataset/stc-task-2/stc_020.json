@@ -1,0 +1,12 @@
+{ 
+"id": "stc_020", 
+"question": "Interviews form the basic selection criteria for most large companies. However, some people think that the interview is not a reliable method of choosing whom to employ. To what extent do you agree or disagree?", 
+"type": "Opinion", 
+"essay": "Job interviews have long been the primary method used by corporations to assess and select prospective candidates. While some people argue that interviews provide crucial insights into an applicant’s suitability, others claim that they are flawed and unreliable. This topic involves several complex factors, so there are valid arguments on both sides. \nOn the one hand, traditional interviews offer several distinct advantages for employers. Face-to-face interactions allow hiring managers to evaluate a candidate’s interpersonal skills, confidence, and communication abilities, which cannot be fully judged from a resume alone. Furthermore, interviewers can ask real-time questions to test a candidate's quick thinking and problem-solving capacity under pressure. Because of these benefits, many businesses continue to trust interviews as an effective hiring tool. \nOn the other hand, relying solely on interviews can lead to inaccurate hiring decisions. Candidates often prepare canned, memorized responses specifically tailored to impress recruiters, which may not reflect their true work ethics or actual capabilities. Additionally, interview outcomes are frequently subject to human bias, such as personal charm or subconscious prejudices, rather than objective job performance indicators. Therefore, critics argue that alternative assessment methods like practical skills tests are much more reliable. \nIn conclusion, both perspectives have compelling points. The interview process has undeniable strengths in evaluating communication skills, but it also carries significant risks regarding candidate deception and interviewer bias. Ultimately, whether interviews are a good selection method depends on how companies conduct them.", 
+"expected": 
+	{ 
+	"reference": "In conclusion, both perspectives have compelling points.", 
+	"reference_type": "global",
+	"weakness": "unclear_stance" 
+	} 
+}
