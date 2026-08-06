@@ -1,0 +1,12 @@
+{ 
+"id": "stc_018", 
+"question": "Some people believe that governments should make laws about people’s nutrition and food choices, while others argue that it should be a personal choice. Discuss both views and give your opinion.", 
+"type": "Discussion", 
+"essay": "Health is an important issue in modern society. Some people think the government should control our food choices. Other people believe food is a personal decision. This essay will discuss both views. \nOn the one hand, government laws can help people eat better. Many people eat too much fast food every day. This habit causes severe health problems like obesity and heart disease. If the government taxes unhealthy food, people will buy less of it. Moreover, schools should serve healthy meals to young children. Children learn good habits early, they will stay healthy in the future. The government can also ban advertising for sugary drinks. This policy protects public health effectively. \nOn the other hand, individuals should have the freedom to choose their food. Every person has different tastes and cultural habits. A strict law limits personal freedom and makes people unhappy. Although the government wants to help, but it cannot control everyone’s daily life. People know their own body needs best. Therefore, education is a better solution than strict laws. \nIn my opinion, personal choice is more important than government control. The government should only educate people about nutrition. If people understand the risks, which will make better choices for themselves.", 
+"expected": 
+	{ 
+	"reference": "Children learn good habits early, they will stay healthy in the future.", 
+	"reference_type": "fragment",
+	"weakness": "limited_sentence_variety" 
+	} 
+}
