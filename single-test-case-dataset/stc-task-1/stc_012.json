@@ -1,0 +1,14 @@
+{ 
+"id": "stc_012", 
+"question": "The pie charts below show the methods used by travelers from Australia, the USA, and Canada to book their travel in 2009 and 2010. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.", 
+"imagePath": "https://backend.aihubproduction.com/images/ac2f7ab9-44bb-472b-9a32-679e1862aef9.jpg",
+"type": "Pie Chart", 
+"essay": "The pie charts illustrate how travelers from Australia, the USA, and Canada booked their travel across four different categories—Arrival, Pre-booked with agent, Internet, and Other—in the years 2009 and 2010. Overall, travelers from the three countries utilized varying booking methods, with noticeable changes occurring between 2009 and 2010 across almost all categories. In 2009, 26% of Australian travelers made bookings on Arrival, 27% pre-booked with an agent, 24% used the Internet, and 23% chose Other methods. In 2010, the figure for Arrival rose to 30%, while pre-booking with an agent dropped to 11%. Meanwhile, Internet bookings increased to 39%, and Other methods declined slightly to 20%. For the USA, in 2009, Arrival accounted for 24%, Pre-booked with agent stood at 24%, Internet was 26%, and Other was 26%. In 2010, the percentage for Arrival stayed at 24%. Pre-booked with agent increased to 28%, Internet dropped slightly to 25%, and Other decreased to 23%. Finally, for Canada in 2009, 45% booked on Arrival, 22% pre-booked with an agent, 27% booked via Internet, and 6% used Other methods. In 2010, Arrival dropped to 26%, while Pre-booked with agent rose to 35%. Internet bookings dropped to 25%, and Other methods increased to 18%.", 
+"expected": 
+	{ 
+	"reference": "Overall, travelers from the three countries utilized varying booking methods, with noticeable changes occurring between 2009 and 2010 across almost all categories.", 
+	"reference_type": "global",
+	"weakness": "lack_comparison_analysis" 
+	} 
+}
+
