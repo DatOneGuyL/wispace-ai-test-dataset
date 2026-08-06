@@ -1,0 +1,13 @@
+{ 
+"id": "stc_008", 
+"question": "The bar chart shows the amount of financial aid provided by six developed countries to developing countries from 2008 to 2010. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.", 
+"imagePath": "https://backend.aihubproduction.com/images/cc8e64c5-a6be-4b0f-b909-d1af28f52603.png",
+"type": "Bar Chart", 
+"essay": "The bar chart compares the amount of financial aid, measured in billions of US dollars, given by six developed nations—the US, Germany, the UK, Japan, Netherlands, and Sweden—to developing nations between 2008 and 2010. \nOverall, the US was by far the largest donor throughout the three-year period, while Sweden and Netherlands consistently provided the lowest amounts of aid. \nForeign aid is essential for recipient countries because it helps reduce poverty, improve healthcare systems, build public infrastructure, and strengthen educational programs in developing regions. Without this financial assistance, many vulnerable populations would suffer from severe economic hardship and political instability. \nRegarding the data, the US provided around $21 billion in aid in 2008, which dropped slightly to nearly $19 billion in 2009 before rising to its peak at roughly $24 billion in 2010. In contrast, Sweden provided around $6 billion in 2008, which increased to approximately $7.5 billion in 2009, before falling back down to $6 billion in 2010.", 
+"expected": 
+	{ 
+	"reference": "Foreign aid is essential for recipient countries because it helps reduce poverty, improve healthcare systems, build public infrastructure, and strengthen educational programs in developing regions. Without this financial assistance, many vulnerable populations would suffer from severe economic hardship and political instability.", 
+	"reference_type": "local",
+	"weakness": "poor_detail_selection" 
+	} 
+}
