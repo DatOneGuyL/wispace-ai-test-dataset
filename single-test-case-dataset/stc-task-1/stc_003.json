@@ -1,0 +1,13 @@
+{ 
+"id": "stc_003", 
+"question": "**IELTS Writing Task 1:** The diagram below shows how a biofuel called ethanol is produced. \n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.", 
+"imagePath": "https://backend.aihubproduction.com/uploads/task1-images/20251231_145239_05fee7a6-d793-4bdf-9cf3-f99542a000a7.png",
+"type": "Process Diagram", 
+"essay": "The diagram illustrates various stages involved in the production of biofuel called ethanol.\n\nOverall, this cyclical process begins the growth of plants and trees by absorbing sunlight and carbon dioxide, which go through a series of processing stages before being turned into ethanol which can be used as fuel. Carbon dioxide is released throughout the process and reused by plants.\n\nAt the first stage, the plants and trees are grown by absorbing sunlight and carbon dioxide before being harvested by a machine. Then, they are turned into raw materials by a specialized machine in pre-processing. After that, they are converted into cellulose.\nMoving onto the remaining stages, the cellulose converted into sugars after processing. At the next stage, the microbes are added to the sugars and then the mixture is turned into the final product is ethanol. The ethanol is used as fuel for various vehicles such as cars, airplanes. During usage, the carbon dioxide is released, the process forms a cycle as it is reused in the initia stage.", 
+"expected": 
+	{ 
+	"reference": "At the next stage, the microbes are added to the sugars and then the mixture is turned into the final product is ethanol.",
+  "reference_type": "local",
+  "weakness": "complex_structure_error" 
+	} 
+}
