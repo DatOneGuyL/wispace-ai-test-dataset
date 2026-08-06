@@ -1,0 +1,13 @@
+{ 
+"id": "stc_006", 
+"question": "The two maps below show the changes that have taken place in the town of Westley since 1815. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+"imagePath": "https://engnovatewebsitestorage.blob.core.windows.net/ielts-writing-task-1-images/a94c577d5f676977",
+"type": "Map", 
+"essay": "The line chart illustrate the changes in the proportion of exported items in Australia to four areas from 1990 to 2012.\\nThere was a decrease in the data of Japan and the US, while the figure for China and India were significantly increased.\\nAbout 26% of goods was imported by Japan in 1990 and gradually decreased to around 16% in the year 2010 before remained stable for the last two years. Similarly, the percentage of products moved to US was 11 in the first year, and reached its peak at the same amount after fluctuated in a ten-year period. Next, the figure for the US dramatically dropped at 5% in 2010 and slightly rose to 6% in the last year approximately.\\nIndia only imported around 3% in the year 1990 and remained unchange for the next 10 years. It it witnessed that after a significant growth from 2000, the proportion was doubled and reached its highest point in 2010, then dropped to 5% in 2012. The figure for China also started at 3%, the lowest point, and plummed to 26%, taking the highest place among 4 categories in 2012.", 
+"expected": 
+	{ 
+	"reference": "The line chart illustrate the changes in the proportion of exported items in Australia to four areas from 1990 to 2012.\\nThere was a decrease in the data of Japan and the US, while the figure for China and India were significantly increased.", 
+	"reference_type": "global",
+	"weakness": "inappropriate_structure" 
+	} 
+}
