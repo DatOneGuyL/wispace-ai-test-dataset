@@ -1,0 +1,12 @@
+{ 
+"id": "stc_019", 
+"question": "In many countries, the amount of garbage produced by households is increasing rapidly. What are the causes of this trend, and what are the effects on the environment?", 
+"type": "Two-part question", 
+"essay": "In recent years, household waste has become a major concern globally. People everywhere are producing more rubbish than ever before. This essay will examine the causes of this alarming increase in garbage and discuss the severe effects it has on the natural environment. \nOne major reason for the growth of household garbage is the rise of consumer culture and single-use packaging. Nowadays, modern consumers buy large quantities of pre-packaged goods, fast food, and bottled drinks for convenience. Furthermore, electronic products and appliances are manufactured with shorter lifespans, prompting households to discard old items frequently. As a result, residential areas generate unprecedented volumes of solid waste every single day. \nThis excessive waste generation creates destructive consequences for the environment. Most household garbage ends up in massive landfills, which contaminate surrounding soil and groundwater with toxic chemicals. In addition, when plastic waste leaks into rivers and ocean ecosystems, marine animals often consume it or become entangled in debris, causing widespread death and disrupting marine food chains. \nTo solve this problem, governments must take immediate action. Authorities should implement strict recycling policies and penalize households that do not separate their trash. Furthermore, manufacturing companies need to use biodegradable materials for packaging instead of plastic. Educating the public about reducing consumption is also a vital step to minimize garbage output. \nIn conclusion, the increase in household rubbish is driven by modern consumer habits and excessive packaging, leading to severe land and marine pollution. Address this issue requires cooperation between individuals and governments.", 
+"expected": 
+	{ 
+	"reference": "To solve this problem, governments must take immediate action.", 
+	"reference_type": "global",
+	"weakness": "inappropriate_structure". 
+	} 
+}
