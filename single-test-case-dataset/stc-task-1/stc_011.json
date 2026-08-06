@@ -1,0 +1,13 @@
+{ 
+"id": "stc_011", 
+"question": "The map shows two potential locations (S1 and S2) for a new shopping mall in the town of Brandfield. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.", 
+"imagePath": "https://backend.aihubproduction.com/uploads/task1-images/20251231_104149_f6f2070d-ea2b-40bc-9ce6-88220963c44b.png",
+"type": "Map", 
+"essay": "The map illustrates two proposed sites, Site 1 (S1) and Site 2 (S2), for constructing a new shopping mall in Brandfield town. \nOverall, S1 is located closer to the residential areas and the city centre. However, S2 is situated near the industrial estate on the southeast side of the town. \nThe first site, S1, is in the northern part of the town. It is near a housing estate and a golf course and park. Also, a main road passes through S1. A railway line runs south of S1. A river runs right through S1, which it is in the north of the city centre. People can access this site easily from the main road, but building over the river might cause some construction issues. \nThe second site, S2, lies in the southeastern area of Brandfield. It is situated near the industrial estate. S2 is located near a main road, and a railway line runs right through S2. Although S2 is further from the housing estate, because it is far away so people from the industrial area can visit it easily. S2 is also outside the central ring road, but it is connected to the town center by the main transport networks.", 
+"expected": 
+	{ 
+	"reference": "A river runs right through S1, which it is in the north of the city centre.", 
+	"reference_type": "fragment",
+	"weakness": "limited_sentence_variety" 
+	} 
+}
