@@ -1,0 +1,13 @@
+{ 
+"id": "stc_010", 
+"question": "The tables below show weather data and daily timings for London, UK, and Sydney, Australia, over a three-day period from December 28th to December 30th, 2018. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.", 
+"imagePath": "https://engnovatewebsitestorage.blob.core.windows.net/ielts-writing-task-1-images/8c70f2d183a6a65f",
+"type": "Table", 
+"essay": "The tables present information regarding the temperature, sunrise times, and sunset times in London and Sydney across three consecutive days at the end of December 2018. \nOverall, Sydney experienced significantly warmer temperatures compared to London. Additionally, Sydney had earlier sunrises and much later sunsets, resulting in longer daylight hours than London during this period. \nIn terms of temperature, London was cold throughout the three days. The maximum temperature peaked on Saturday before dipping on Sunday, while the minimum temperature fluctuated slightly across the weekend. On the other hand, Sydney experienced a steady increase in maximum temperature from Friday to Sunday, while its minimum temperature also rose gradually each day. \nRegarding daylight hours, sunrise in London happened around the same time each morning, while sunset occurred slightly later each day. In Sydney, the sun rose much earlier in the morning and set much later in the evening compared to London. Overall, the length of the day remained fairly stable in both cities across the three days.", 
+"expected": 
+	{ 
+	"reference": "The maximum temperature peaked on Saturday before dipping on Sunday, while the minimum temperature fluctuated slightly across the weekend. On the other hand, Sydney experienced a steady increase in maximum temperature from Friday to Sunday, while its minimum temperature also rose gradually each day.", 
+	"reference_type": "local",
+	"weakness": "missing_data_support" 
+	} 
+}
