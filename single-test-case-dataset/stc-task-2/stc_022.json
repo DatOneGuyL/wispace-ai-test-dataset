@@ -1,0 +1,12 @@
+{ 
+"id": "stc_022", 
+"question": "In many countries, an increasing number of young people are choosing to leave their hometowns to live in big cities. What are the causes of this trend, and what are the effects on rural communities?", 
+"type": "Two-part question", 
+"essay": "In recent years, rural-to-urban migration among the youth has become a widespread phenomenon around the world. A growing number of young individuals are abandoning countryside towns to seek new lives in major urban centers. This essay will examine the underlying causes of this migration and discuss several effective solutions to address this growing issue. \nThe primary factor driving young people away from rural areas is the lack of economic and educational opportunities. In many small towns, local economies rely heavily on traditional agriculture, which offers limited career prospects and lower income levels for the younger generation. Furthermore, prestigious universities and modern vocational institutions are predominantly located in capital cities. Consequently, ambitious young adults feel compelled to move to urban hubs in search of better employment options, higher salaries, and superior academic environments. \nTo resolve this imbalance, governments must implement targeted strategic policies. First, national authorities should invest in rural infrastructure and offer tax incentives to businesses that establish facilities in regional areas. This strategy would generate diverse job opportunities for local youths, making staying in their hometowns more attractive. Additionally, improving internet connectivity and constructing regional colleges would allow young people to obtain higher education and professional skills without relocating to overcrowded cities. \nIn conclusion, the decision of young adults to migrate to cities stems mainly from poor rural job markets and limited educational facilities. However, by investing in local infrastructure and expanding educational opportunities in rural regions, governments can effectively curb this trend and encourage young citizens to remain in their home communities.", 
+"expected": 
+	{ 
+	"reference": "This essay will examine the underlying causes of this migration and discuss several effective solutions to address this growing issue.", 
+	"reference_type": "global",
+	"weakness": "incomplete_task_coverage" 
+	} 
+}
