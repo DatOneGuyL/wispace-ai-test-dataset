@@ -1,0 +1,13 @@
+{ 
+"id": "stc_016", 
+"question": "The four charts show the export figures for four different types of citrus fruits (Oranges, Lemons, Grapefruits, and Other types of citrus fruits) by top countries, measured in thousand metric tons. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.", 
+"imagePath": "https://backend.aihubproduction.com/uploads/task1-images/20260228_090405_3fcd3734-920c-4b06-9fec-7cb5f1e52547.png",
+"type": "Bar Chart", 
+"essay": "The four horizontal bar charts illustrate the volume of four categories of citrus fruits exported by leading producer countries, measured in thousands of metric tons. \nOverall, oranges represented the largest export category overall, while South Africa, Turkey, and Mexico emerged as dominant exporters depending on the specific fruit type. \nIn terms of orange exports, South Africa led the market with 1,000 thousand metric tons, followed closely by Egypt at 900 thousand metric tons and the United States at 700 thousand metric tons. For lemon exports, Turkey held the highest position at 500 thousand metric tons, while Mexico exported 450 thousand metric tons and Argentina registered 260 thousand metric tons. \nRegarding grapefruits, the United States and South Africa both exported the highest volume at roughly 230 thousand metric tons each. On the other hand, Mexico dominated the category for other types of citrus fruits with 440 thousand metric tons. Finally, Turkey exported 175 thousand metric tons of grapefruits, whereas Israel and the United States exported negligible amounts of other citrus fruits, at less than 20 thousand metric tons each.", 
+"expected": 
+	{ 
+	"reference": "Regarding grapefruits, the United States and South Africa both exported the highest volume at roughly 230 thousand metric tons each. On the other hand, Mexico dominated the category for other types of citrus fruits with 440 thousand metric tons.", 
+	"reference_type": "local",
+	"weakness": "unclear_information_relationship" 
+	} 
+}
