@@ -1,0 +1,12 @@
+{ 
+"id": "stc_017", 
+"question": "Some people think that the best way to increase road safety is to increase the minimum legal age for driving cars or riding motorbikes. To what extent do you agree or disagree?", 
+"type": "Opinion", 
+"essay": "It is a fact that increasing the minimum legal age for driving cars and riding motorbikes can entail a number of advantages. Nevertheless, I am of the opinion that this is not the most essential solution to enhance road safety because of various compelling reasons, which are elaborated upon throughout this essay. \nOn the one hand, higher legal age for driving cars or riding motorbikes can entail certain upsides. This is predicated on the assumption that when the car participants are enough mature, they can assess the risks during commuting and have experience in problem-solving to tackle any situations such as accidents and emergencies. Additionally, adolescents and immature people tend to be arrogant to drive, which may get easily to collisions. For instance, more youngers are keen on getting attention from their friends, so they try to drive at high speed to compete with their peers. As a result, it is more dangerous to them and other drivers. \nOn the other hand, the merits carry greater weight for the following reasons. This is because young people adapt better than the old while driving modern cars. For example, the young generation is approaching new and modern knowledge where they can get used to operating cars more effectively. Moreover, reducing road accidents needs support from many aspects such as well-maintain roads, expanding more roads, offering an extended or more difficult test for driving test, and raising people’s awareness about the negative effects of careless behaviors during driving so the problems could not be done by putting higher legal age for drivers. \nIn conclusion, despite several positive effects, I believe that governments should focus on other fields to address these issues and consider the negative effects to drivers if they set higher age to drive vehicles.", 
+"expected": 
+	{ 
+	"reference": "This is predicated on the assumption that when the car participants are enough mature, they can assess the risks during commuting and have experience in problem-solving to tackle any situations such as accidents and emergencies.", 
+	"reference_type": "local",
+	"weakness": "collocation_error" 
+	} 
+}
