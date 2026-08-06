@@ -1,0 +1,15 @@
+{ 
+"id": "stc_004", 
+"question": "The graph below shows the percentage of workers from five different European countries that were absent for a day or more due to illness from 1991 to 2001. Summarise the information by selecting reporting the main features, and make comparisons where relevant.", 
+"imagePath": "https://backend.aihubproduction.com/uploads/task1-images/20260320_075411_96ce6f65-4709-4e2c-8861-a7df0253e87c.png",
+"type": "Line Graph", 
+"essay": "The line chart illustrates the chances of employers who were absent for more than a day due to illness from 1991 to 2001.\nOverall, Netherlands and Sweden were showed an increased trend while France was dropped significantly. In addition, Germany and the UK were the only countries that stay wavered over the years.\nIn the first 5 years, France was started with the most number at 5 percent then rose slightly and then dropped remarkable to almost 3 percent in 1996.  Another country also dropped in the first 5 years were Netherlands with around 4,5 percent at the begining and then rose significantly before dropped remarkable. The last three countries stay wavered and stable from 1991 to 1996.\nIn the last 5 years, Sweden and Netherlands showed an significant changes from above 3 percent to almost 5 percent and 4 percent to above 5 percent respectively. Two other countries which were the UK and Germany still stay wavered and Frances were stayed stabled at 3 percent to the last year.", 
+"expected": 
+	{ 
+	"reference": "The line chart illustrates the chances of employers who were absent for more than a day due to illness from 1991 to 2001.",
+  "reference_type": "local",
+  "weakness": "inappropriate_word_choice" 
+  }
+}
+
+ 
