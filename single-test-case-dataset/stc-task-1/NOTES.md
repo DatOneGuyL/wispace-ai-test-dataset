@@ -1,0 +1,1 @@
+- Check stc_004 for repetitive grammar structure
