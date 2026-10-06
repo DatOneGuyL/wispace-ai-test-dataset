@@ -1,0 +1,286 @@
+{
+  "fluency_coherence": {
+    "language_related_hesitation_and_slow_delivery": {
+      "vi": "Ngập ngừng, nói chậm do phải tìm từ hoặc dựng ngữ pháp",
+      "en_description": "Long silent pauses or word-by-word slow speech occur because the speaker is searching for vocabulary or building grammar, not planning content."
+    },
+    "overuse_of_fillers": {
+      "vi": "Lạm dụng âm đệm, từ lấp chỗ trống (um, uh, like, ờ, ừm)",
+      "en_description": "Filler sounds and words such as um, uh, like, you know, or Vietnamese ờ/à/ừm are used so often that they interrupt the flow of speech."
+    },
+    "disfluent_repetition": {
+      "vi": "Lặp từ, cụm từ để câu giờ",
+      "en_description": "Words, phrases, or the start of a sentence are repeated to buy time rather than for emphasis."
+    },
+    "excessive_self_correction_and_false_starts": {
+      "vi": "Tự sửa lỗi, bỏ dở câu và bắt đầu lại quá nhiều",
+      "en_description": "The speaker corrects themselves or abandons and restarts sentences so often that the flow of speech is broken."
+    },
+    "insufficient_length_of_response": {
+      "vi": "Câu trả lời quá ngắn, không mở rộng",
+      "en_description": "Responses are too short and not extended, such as one-sentence answers in Part 1, a Part 2 talk that stops well before the 2-minute mark, or one or two sentences in Part 3."
+    },
+    "disjointed_or_unclear_ideas": {
+      "vi": "Ý rời rạc, thiếu rõ ràng",
+      "en_description": "Ideas within a response are disconnected, vague, or left for the listener to guess, so the answer lacks a logical link between ideas."
+    },
+    "irrelevant_or_off_target_response": {
+      "vi": "Trả lời lạc đề, không đúng câu hỏi",
+      "en_description": "The response does not answer the question asked, for example after mishearing the question without asking for repetition, or by drifting to another topic."
+    },
+    "illogical_sequencing_of_ideas": {
+      "vi": "Sắp xếp ý lộn xộn, thiếu trình tự logic",
+      "en_description": "Related ideas are arranged in a confusing order, jumping back and forth or leaving one idea unfinished to start another."
+    },
+    "misuse_of_cohesive_devices": {
+      "vi": "Dùng từ nối sai, thiếu hoặc lạm dụng",
+      "en_description": "Connectives and discourse markers are missing where needed, express the wrong logical relationship, or are overused, including written-style frames such as Firstly, Secondly, and Moreover."
+    },
+    "underdeveloped_topic_development": {
+      "vi": "Ý không được phát triển (thiếu giải thích, ví dụ)",
+      "en_description": "Ideas are long enough but stay shallow, listed or stated in general terms without explanation, examples, or consequences."
+    },
+    "unclear_reference_and_substitution": {
+      "vi": "Đại từ, từ thế không rõ chỉ đối tượng nào",
+      "en_description": "Reference or substitution words such as it, this, they, or one do not clearly point to what they refer to, or the same noun is repeated instead of using a pronoun."
+    },
+    "rehearsed_or_formulaic_language": {
+      "vi": "Học thuộc, trả lời theo khuôn mẫu",
+      "en_description": "Memorised answers or fixed formulaic phrases are used instead of spontaneous language, shown by unusually fluent stretches, reading intonation, or content forced onto the question."
+    }
+  },
+  "lexical_resource": {
+    "word_choice": {
+      "vi": "Chọn sai từ (sai nghĩa hoặc ngữ cảnh)",
+      "en_description": "A real word is chosen with the wrong meaning or in an unsuitable context, such as confusing similar words or translating word by word."
+    },
+    "word_formation": {
+      "vi": "Tạo từ sai (tiền tố, hậu tố, từ ghép)",
+      "en_description": "A non-existent word is created through wrong prefixes, suffixes, or invented compounds, such as unpossible."
+    },
+    "collocation": {
+      "vi": "Sử dụng sai collocation",
+      "en_description": "Words that are individually correct are combined in unnatural ways, such as make homework or strong rain."
+    },
+    "misused_idiomatic_language": {
+      "vi": "Dùng sai thành ngữ, cụm động từ",
+      "en_description": "Idioms, phrasal verbs, or idiomatic expressions are used with the wrong meaning, form, context, or tone."
+    },
+    "inappropriate_register": {
+      "vi": "Văn phong không phù hợp với tình huống nói",
+      "en_description": "Vocabulary is too formal or written in style for spoken English, or too casual or rude for the situation."
+    },
+    "limited_lexical_range_and_repetition": {
+      "vi": "Vốn từ hạn chế, lặp từ nhiều lần",
+      "en_description": "Vocabulary range is narrow across the whole test, with common words such as good, bad, very, and thing repeated, vague words used where precision is needed, and few less common items."
+    },
+    "ineffective_paraphrase_and_lexical_gap_management": {
+      "vi": "Diễn đạt vòng thất bại khi thiếu từ",
+      "en_description": "The speaker cannot work around a missing word, for example by abandoning the sentence, switching to Vietnamese, asking the examiner, or circling until the meaning is unclear."
+    }
+  },
+  "grammar_range_accuracy": {
+    "tense": {
+      "vi": "Lỗi thì",
+      "en_description": "The wrong tense is chosen or tense is not kept consistent, such as narrating past events in the present simple."
+    },
+    "subject_verb_agreement": {
+      "vi": "Lỗi hòa hợp chủ ngữ – động từ",
+      "en_description": "The verb does not agree with its subject, such as a missing third-person -s or wrong there is/there are."
+    },
+    "verb_form": {
+      "vi": "Sai dạng động từ sau modal, to-V, V-ing",
+      "en_description": "The verb form is wrong in non-finite or modal structures, such as can to swim, enjoy to read, or make someone to do."
+    },
+    "voice": {
+      "vi": "Lỗi câu bị động, chủ động",
+      "en_description": "Passive structures are wrong or the wrong voice is chosen, such as I born in Hue or The accident was happened."
+    },
+    "word_class": {
+      "vi": "Lỗi từ loại",
+      "en_description": "A real word of the wrong part of speech is used in a position, such as a noun where an adjective is needed."
+    },
+    "article": {
+      "vi": "Lỗi mạo từ a/an/the",
+      "en_description": "Articles a, an, and the are missing, added unnecessarily, or chosen wrongly."
+    },
+    "singular_plural_and_countability": {
+      "vi": "Lỗi danh từ số ít/số nhiều, đếm được/không đếm được",
+      "en_description": "Noun number or countability is wrong, including plural forms of uncountable nouns, singular nouns after plural quantifiers, and wrong quantifiers such as much people."
+    },
+    "pronoun_form_and_agreement": {
+      "vi": "Lỗi hình thái, giống, số của đại từ",
+      "en_description": "Pronouns have the wrong form, gender, or number, such as confusing he and she, personal pronouns and possessive adjectives, or reflexive forms."
+    },
+    "preposition": {
+      "vi": "Lỗi giới từ",
+      "en_description": "Single prepositions are wrong, missing, or unnecessary in grammatical structures, such as in/on/at or arrive to."
+    },
+    "word_order": {
+      "vi": "Lỗi trật tự từ",
+      "en_description": "Word order is wrong in a phrase or sentence, such as in indirect questions (I don't know what is it) or adverb placement (I very like football)."
+    },
+    "missing_obligatory_elements": {
+      "vi": "Thiếu thành phần bắt buộc của mệnh đề",
+      "en_description": "A required clause element is missing, such as be before an adjective, the dummy subject it or there, an auxiliary in negatives and questions, or a required object after a transitive verb."
+    },
+    "complex_sentence_structure": {
+      "vi": "Lỗi cấu trúc câu ghép, câu phức",
+      "en_description": "Errors occur in compound and complex sentences, such as using two conjunctions for one relationship (Although... but), relative clause errors, and noun or adverbial clause errors."
+    },
+    "conditional_and_hypothetical_structures": {
+      "vi": "Lỗi câu điều kiện, câu giả định",
+      "en_description": "Conditional and hypothetical structures are wrong, such as mixed tenses in if-clauses, wish structures, and constructions like it's time or would rather."
+    },
+    "comparative_and_superlative": {
+      "vi": "Lỗi so sánh hơn, so sánh nhất",
+      "en_description": "Comparative and superlative forms are wrong, such as double comparison (more cheaper), a missing than, or irregular forms (gooder)."
+    },
+    "limited_grammatical_range": {
+      "vi": "Phạm vi ngữ pháp hạn chế",
+      "en_description": "Grammatical range is narrow across the whole test, with mostly short simple sentences, a few repeated patterns, and little use of complex, passive, conditional, or relative structures."
+    },
+    "modal_meaning": {
+      "vi": "Dùng sai nghĩa của động từ khuyết thiếu",
+      "en_description": "A modal verb with the wrong meaning is chosen even though the following verb form is correct, such as confusing obligation, possibility, or permission, or mustn't and don't have to."
+    },
+    "possessives_and_noun_modifiers": {
+      "vi": "Lỗi sở hữu cách, danh từ bổ nghĩa",
+      "en_description": "Possessive and noun-modifier structures are wrong, such as a missing 's (my father car) or plural nouns inside compound modifiers (a five-years-old boy)."
+    }
+  },
+  "pronunciation": {
+    "consonant_omission": {
+      "vi": "Bỏ phụ âm",
+      "en_description": "A consonant that should be pronounced is dropped, either a single final consonant (like → lie) or part of a consonant cluster."
+    },
+    "sound_insertion": {
+      "vi": "Thêm âm không có trong từ",
+      "en_description": "An extra sound or syllable is added, such as a vowel inside a consonant cluster (school → /səˈkuːl/) or a silent letter that is pronounced (island)."
+    },
+    "missing_final_s_z_iz": {
+      "vi": "Thiếu âm /s/, /z/, /ɪz/ cuối từ",
+      "en_description": "Final /s/, /z/, or /ɪz/ is missing in an irregular pattern, both on grammatical -s endings and on words that contain these sounds (nice, because)."
+    },
+    "intrusive_final_s_z": {
+      "vi": "Thêm âm /s/, /z/ thừa ở cuối từ",
+      "en_description": "A final /s/ or /z/ is added in an irregular pattern to a word that does not take it, including after modal verbs or on adverbs."
+    },
+    "incorrect_s_ending_variant": {
+      "vi": "Đọc sai biến thể của đuôi -s",
+      "en_description": "A grammatical -s ending is present but pronounced with the wrong variant, mainly the wrong number of syllables (adding or dropping /ɪz/), and secondarily the wrong voicing."
+    },
+    "incorrect_ed_ending_variant": {
+      "vi": "Đọc sai biến thể của đuôi -ed",
+      "en_description": "A grammatical -ed ending is present but pronounced with the wrong variant, mainly adding or dropping the /ɪd/ syllable, and secondarily the wrong voicing."
+    },
+    "p_t_k_errors": {
+      "vi": "Lỗi phát âm /p/, /t/, /k/",
+      "en_description": "The target sound is /p/, /t/, or /k/ but a different sound is produced, such as unaspirated initial /p t k/ sounding like /b d ɡ/."
+    },
+    "b_d_g_errors": {
+      "vi": "Lỗi phát âm /b/, /d/, /ɡ/",
+      "en_description": "The target sound is /b/, /d/, or /ɡ/ but a different sound is produced, such as devoicing at the end of a word."
+    },
+    "th_dh_errors": {
+      "vi": "Lỗi phát âm /θ/, /ð/",
+      "en_description": "The target sound is /θ/ or /ð/ but a different sound is produced, such as /t/, /s/, /d/, or /z/."
+    },
+    "f_v_errors": {
+      "vi": "Lỗi phát âm /f/, /v/",
+      "en_description": "The target sound is /f/ or /v/ but a different sound is produced."
+    },
+    "s_z_errors": {
+      "vi": "Lỗi phát âm /s/, /z/",
+      "en_description": "The target sound is /s/ or /z/ but a different sound is produced, including devoicing of final /z/."
+    },
+    "sh_zh_errors": {
+      "vi": "Lỗi phát âm /ʃ/, /ʒ/",
+      "en_description": "The target sound is /ʃ/ or /ʒ/ but a different sound is produced, such as /ʃ/ pronounced as /s/."
+    },
+    "ch_jh_errors": {
+      "vi": "Lỗi phát âm /tʃ/, /dʒ/",
+      "en_description": "The target sound is /tʃ/ or /dʒ/ but a different sound is produced."
+    },
+    "r_errors": {
+      "vi": "Lỗi phát âm /r/",
+      "en_description": "The target sound is /r/ but a different sound is produced, such as /z/, /l/, a trilled /r/, or a retroflex /r/."
+    },
+    "l_errors": {
+      "vi": "Lỗi phát âm /l/",
+      "en_description": "The target sound is /l/ but a different sound is produced, such as /n/."
+    },
+    "nasal_errors": {
+      "vi": "Lỗi phát âm /m/, /n/, /ŋ/",
+      "en_description": "The target sound is /m/, /n/, or /ŋ/ but a different nasal or sound is produced, such as confusing /n/ and /ŋ/ at the end of a word."
+    },
+    "h_w_y_errors": {
+      "vi": "Lỗi phát âm /h/, /w/, /j/",
+      "en_description": "The target sound is /h/, /w/, or /j/ but a different sound is produced."
+    },
+    "fleece_kit_errors": {
+      "vi": "Lỗi phát âm /iː/ và /ɪ/",
+      "en_description": "The target vowel is /iː/ or /ɪ/ in a stressed syllable or one-syllable word, but a different vowel is produced."
+    },
+    "dress_trap_errors": {
+      "vi": "Lỗi phát âm /e/ và /æ/",
+      "en_description": "The target vowel is /e/ or /æ/ in a stressed syllable or one-syllable word, but a different vowel is produced."
+    },
+    "strut_start_errors": {
+      "vi": "Lỗi phát âm /ʌ/ và /ɑː/",
+      "en_description": "The target vowel is /ʌ/ or /ɑː/ in a stressed syllable or one-syllable word, but a different vowel is produced."
+    },
+    "nurse_errors": {
+      "vi": "Lỗi phát âm /ɜː/",
+      "en_description": "The target vowel is /ɜː/ but a different vowel is produced, such as a short /ə/ or /ɔ/-like sound."
+    },
+    "goose_foot_errors": {
+      "vi": "Lỗi phát âm /uː/ và /ʊ/",
+      "en_description": "The target vowel is /uː/ or /ʊ/ in a stressed syllable or one-syllable word, but a different vowel is produced."
+    },
+    "thought_lot_errors": {
+      "vi": "Lỗi phát âm /ɔː/ và /ɒ/",
+      "en_description": "The target vowel is /ɔː/ or /ɒ/ in a stressed syllable or one-syllable word, but a different vowel is produced, often a vowel-length error."
+    },
+    "face_errors": {
+      "vi": "Lỗi phát âm nguyên âm đôi /eɪ/",
+      "en_description": "The target diphthong is /eɪ/ but a different vowel is produced, such as make pronounced like mec."
+    },
+    "goat_errors": {
+      "vi": "Lỗi phát âm nguyên âm đôi /əʊ/",
+      "en_description": "The target diphthong is /əʊ/ but a different vowel is produced, such as a single vowel in go or home."
+    },
+    "price_choice_mouth_errors": {
+      "vi": "Lỗi phát âm nguyên âm đôi /aɪ/, /ɔɪ/, /aʊ/",
+      "en_description": "The target diphthong is /aɪ/, /ɔɪ/, or /aʊ/ but a different vowel is produced."
+    },
+    "near_square_cure_errors": {
+      "vi": "Lỗi phát âm nguyên âm đôi hướng tâm /ɪə/, /eə/, /ʊə/",
+      "en_description": "The target centring diphthong is /ɪə/, /eə/, or /ʊə/ but a different vowel is produced."
+    },
+    "word_stress_and_vowel_reduction": {
+      "vi": "Sai trọng âm từ, không giảm nguyên âm",
+      "en_description": "Stress is placed on the wrong syllable of a word, all syllables are stressed equally, or unstressed vowels are not reduced to /ə/."
+    },
+    "rhythm": {
+      "vi": "Sai nhịp điệu (nhịp âm tiết, thiếu dạng yếu)",
+      "en_description": "Speech follows a syllable-timed rhythm instead of English stress-timing, with every word stressed equally and weak forms of function words not used."
+    },
+    "intonation": {
+      "vi": "Sai ngữ điệu",
+      "en_description": "Pitch is inappropriate, such as the wrong pitch direction, a narrow pitch range (monotone), wrong placement of focus on new or contrastive information, or unusual pitch contours on single syllables."
+    },
+    "lack_of_connected_speech_features": {
+      "vi": "Thiếu nối âm, lược âm, đồng hóa giữa các từ",
+      "en_description": "Words are pronounced separately like dictionary entries, without linking, assimilation, or natural elision, including a glottal stop before every vowel-initial word."
+    },
+    "inappropriate_chunking": {
+      "vi": "Ngắt cụm ý sai vị trí",
+      "en_description": "Speech is fluent but ideas are divided at the wrong places, splitting a unit of meaning, running several units together without breaks, or pausing away from grammatical boundaries."
+    },
+    "unclear_articulation_and_rushed_delivery": {
+      "vi": "Nói quá nhanh, lướt âm hoặc phát âm không rõ",
+      "en_description": "Speech is too fast, mumbled, too quiet, or swallowed at sentence ends, so many words are unclear even though the individual sounds may be correct at slower speech."
+    }
+  }
+}
